@@ -9,7 +9,7 @@ python packages required:
 - Django Cors Headers
   - `pip install django-cors-headers`
 - Django Restframework Jwt
-  - `pip install djangorestframework-jwt``
+  - `pip install djangorestframework-jwt`
 
 to run the website cd to backend folder and run the following:
 - `python manage.py createsuperuser`
